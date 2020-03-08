@@ -41,7 +41,7 @@
             android:layout_width="match_parent"
             android:layout_height="57dp"
             android:inputType="text"
-            android:autofillHints="" tools:targetApi="o"/>
+            android:autofillHints="" />
 
     </LinearLayout>
 
@@ -67,7 +67,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="number"
-            android:autofillHints="" tools:targetApi="o"/>
+            android:autofillHints=""/>
 
     </LinearLayout>
 
